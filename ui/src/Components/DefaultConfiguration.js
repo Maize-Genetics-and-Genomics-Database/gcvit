@@ -7,7 +7,7 @@ export function rulerDisplayDefault(rulerDisplayOptions) { return rulerDisplayOp
 /**
  * Distance in default units between major tick ines in ruler
  */
-export const rulerIntervalDefault = 5000000;
+export const rulerIntervalDefault = 10000000;
 
 /**
  * Size of display "bin" for counts
