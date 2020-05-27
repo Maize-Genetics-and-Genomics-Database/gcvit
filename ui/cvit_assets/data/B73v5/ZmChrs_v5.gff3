@@ -8,3 +8,13 @@ chr7	B73v5	chromosome	1	185808916	.	.	.	Name=chr7;Alias=Chr7,7
 chr8	B73v5	chromosome	1	182411202	.	.	.	Name=chr8;Alias=Chr8,8
 chr9	B73v5	chromosome	1	163004744	.	.	.	Name=chr9;Alias=Chr9,9
 chr10	B73v5	chromosome	1	152435371	.	.	.	Name=chr10;Alias=Chr10,10
+chr1	B73v5	centromere	137170000	13813499	.	.	.	Name=cent1
+chr2	B73v5	centromere	95705000	97754999	.	.	.	Name=cent2
+chr3	B73v5	centromere	86300000	88189999	.	.	.	Name=cent3
+chr4	B73v5	centromere	109080000	110759999	.	.	.	Name=cent4
+chr5	B73v5	centromere	104360000	106179999	.	.	.	Name=cent5
+chr6	B73v5	centromere	58630000	59444999	.	.	.	Name=cent6
+chr7	B73v5	centromere	56185000	57749999	.	.	.	Name=cent7
+chr8	B73v5	centromere	50495000	52384999	.	.	.	Name=cent8
+chr9	B73v5	centromere	55515000	57149999	.	.	.	Name=cent9
+chr10	B73v5	centromere	50770000	52699999	.	.	.	Name=cent10
